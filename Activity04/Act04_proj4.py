@@ -1,6 +1,5 @@
 """
-File : Act04_proj4.py 
-Name : Michael Mathews   Date : 25/01/2020
+File : Act04_proj4.py  Author : Michael Mathews   Date : 25/01/2020
 Program Purpose : Area of Triangle Rectangle and square
 """
 
